@@ -13,7 +13,7 @@ public class HelloTest {
 		System.out.println("This is my First Maven project");
 		
 		WebDriver driver=new FirefoxDriver();
-		driver.get("https://www.google.co.uk");
+		driver.get("https://web.skype.com/en/");
 		System.out.println("Change made in Dev branch");
 	}
 
